@@ -6,8 +6,8 @@ everything is in German, since that is my native language.
 
 
 Not everything written down in this file reflects my actual views. In
-particular the older aphorisms do not align with my current world view
-anymore, and some probably did never.
+particular, the older aphorisms do not align with my current world view
+anymore, and some probably never did.
 
 
 The repository consists mainly of one single file containing everything
